@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+alembic
+pydantic
+pydantic-settings
+redis
+aio-pika
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+celery[redis]
+flower
